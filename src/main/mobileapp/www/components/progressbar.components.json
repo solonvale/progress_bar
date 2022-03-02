@@ -1,0 +1,12 @@
+{
+    "name": "crn-progressbar",
+    "text": "progress-bar",
+    "class": "adjust-icon mdi mdi-checkerboard",
+    "templateURL": "${webcontent}/components/templates/progressbar.template.html",
+    "properties": {
+        "onchange": {
+            "removable": true,
+            "type": "event"
+        }
+    }
+}
